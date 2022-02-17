@@ -4,6 +4,11 @@
 
 ## Kaggle Competitions и Хакатоны на других платформах
 
+### [2022-02-10], place #5/30 - [](https://github.com/alukyantsev/dataworkshop/tree/main/sales_forecast)
+[DWthon 5.0 - Поиск оптимальных прогнозов продаж](https://www.kaggle.com/c/sales-preiction-ru)
+
+[ [Описание решения на YouTube](https://youtu.be/R0gh4AtM3bU?t=277) ]
+
 ### [2021-12-16], place #6/50 - [megafon_base_station](https://github.com/alukyantsev/dataworkshop/tree/main/megafon_base_station)
 [неХакатон "Прогнозирование трафика базовой станции сети связи на данных Мегафона"](https://ii-s-nulya.ru/nehakaton)
 
