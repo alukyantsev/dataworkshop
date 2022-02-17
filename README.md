@@ -4,8 +4,8 @@
 
 ## Kaggle Competitions и Хакатоны на других платформах
 
-### [2022-02-10], place #5/30 - [](https://github.com/alukyantsev/dataworkshop/tree/main/sales_forecast)
-[DWthon 5.0 - Поиск оптимальных прогнозов продаж](https://www.kaggle.com/c/sales-preiction-ru)
+### [2022-02-10], place #5/30 - [sales_forecast](https://github.com/alukyantsev/dataworkshop/tree/main/sales_forecast)
+[DWthon 5.0 - поиск оптимальных прогнозов продаж](https://www.kaggle.com/c/sales-preiction-ru)
 
 [ [Описание решения на YouTube](https://youtu.be/R0gh4AtM3bU?t=277) ]
 
